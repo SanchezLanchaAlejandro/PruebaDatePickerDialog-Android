@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prueba DatePicker</string>
+    <string name="fecha">No hay fecha</string>
+</resources>
